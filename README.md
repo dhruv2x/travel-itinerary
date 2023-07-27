@@ -4,7 +4,7 @@ This is a Flutter Web application that allows users to input their travel destin
 
 ## Demo
 
-(https://github.com/dhruv2x/travel-itinerary/assets/84621641/5c978b54-068c-439b-a21c-fec7edb66938)
+https://github.com/dhruv2x/travel-itinerary/assets/84621641/5c978b54-068c-439b-a21c-fec7edb66938
 
 ## Getting Started
 
