@@ -149,7 +149,7 @@ class _ChatGPTPageState extends State<ChatGPTPage> {
                     // Open your GitHub repository link here
                   },
                   child: Text(
-                    'https://github.com/your-repo',
+                    'https://github.com/dhruv2x/travel-itinerary/tree/main',
                     style: TextStyle(
                       color: Colors.blue,
                     ),
