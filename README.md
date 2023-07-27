@@ -1,12 +1,10 @@
 # Travel Itinerary
 
-![Travel Itinerary](https://your-image-url-here)
-
 This is a Flutter Web application that allows users to input their travel destination and duration, and in return, it generates a day-by-day travel itinerary using the ChatGPT API. The application utilizes Node.js for handling post requests to the ChatGPT API.
 
 ## Demo
 
-[(Add a link to a live demo or a video showcasing how the app works)](https://github.com/dhruv2x/travel-itinerary/assets/84621641/5c978b54-068c-439b-a21c-fec7edb66938)
+(https://github.com/dhruv2x/travel-itinerary/assets/84621641/5c978b54-068c-439b-a21c-fec7edb66938)
 
 ## Getting Started
 
@@ -65,14 +63,11 @@ node app.js
 flutter run -d chrome
 ```
 
-
 3. Open the application in your web browser:
 
 The application will be running at `http://localhost:3000`.
 
 4. Enter your travel destination and duration in the application:
-
-(Explain how the user should interact with the app)
 
 5. Submit the form, and the app will make a post request to the ChatGPT API to generate the day-by-day travel itinerary.
 
@@ -87,16 +82,15 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ### Acknowledgments
 
 - Thanks to the creators of Flutter for providing an amazing framework.
-- Thanks to OpenAI for the ChatGPT API.
-- (Add any other acknowledgments as necessary)
+- Thanks to OpenAI for the ChatGPT API
 
 ## Contact
 
 If you have any questions or need assistance, feel free to contact the project maintainer:
 
-- Name: Dhruv Patel
+- Name: Dhruv Chauhan
 - GitHub: [dhruv2x](https://github.com/dhruv2x)
-- Email: your.email@example.com
+- Email: chauhandhruv351@gmail.com
 
 (Feel free to add any other contact information if required)
 
