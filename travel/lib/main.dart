@@ -76,7 +76,7 @@ class _ChatGPTPageState extends State<ChatGPTPage> {
               TextField(
                 controller: destinationController,
                 decoration: InputDecoration(
-                  labelText: 'Where?',
+                  labelText: 'Where? ex. Mumbai',
                   filled: true,
                   fillColor: Colors.grey[200],
                 ),
@@ -85,7 +85,7 @@ class _ChatGPTPageState extends State<ChatGPTPage> {
               TextField(
                 controller: durationController,
                 decoration: InputDecoration(
-                  labelText: 'How long?',
+                  labelText: 'How long?  ex. 2 Day',
                   filled: true,
                   fillColor: Colors.grey[200],
                 ),
@@ -100,6 +100,15 @@ class _ChatGPTPageState extends State<ChatGPTPage> {
                   'Generate Travel Itinerary',
                   style: TextStyle(
                     color: Colors.white,
+                  ),
+                ),
+              ),
+              SizedBox(height: 20.0),
+              Center(
+                child: Text(
+                  'Note : AI will take 5-10 sec to think.',
+                  style: TextStyle(
+                    color: Colors.blue,
                   ),
                 ),
               ),
@@ -149,7 +158,7 @@ class _ChatGPTPageState extends State<ChatGPTPage> {
                     // Open your GitHub repository link here
                   },
                   child: Text(
-                    'https://github.com/dhruv2x/travel-itinerary/tree/main',
+                    'https://github.com/dhruv2x/travel-itinerary',
                     style: TextStyle(
                       color: Colors.blue,
                     ),
